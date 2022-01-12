@@ -26,3 +26,5 @@ The service will provide a way to view teams, players, schedules, stadiums, stan
 ## Concluding Remarks
 
 Working on this basketball league management database has provided us with a solid foundation in database design and implementation. With the theories we learned regarding entity-relationship diagrams, relational schema design, functional dependencies, normalization, etc., we were able to turn various pieces of data into a useful and accessible database that anyone can access.
+
+To view full report: https://github.com/WaqasJal/NBA-DBMS/blob/main/CPS510%20Final%20Assignment.pdf
